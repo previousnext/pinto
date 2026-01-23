@@ -1,5 +1,5 @@
 {
-    "name": "dpi/pinto",
+    "name": "previousnext/pinto",
     "type": "library",
     "require": {
         "php": ">=8.2",
